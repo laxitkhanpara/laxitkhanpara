@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Laxit Khanpara (@laxitkhanpara)
 
-I'm a passionate Full Stack Developer and Java enthusiast, currently pursuing my B.Tech in Information Technology at Parul University. I've worked on several production-level projects, hackathons, and internships that span modern web technologies and enterprise-grade systems.
+I'm a passionate Full Stack Developer and Java enthusiast. I've worked on several production-level projects, hackathons, and internships that span modern web technologies and enterprise-grade systems.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer and Java enthusiast, currently pursuing my
 ---
 
 #### 💞️ I’m looking to collaborate on:
-- Open source MERN stack projects
+- Open source MERN stack and Java projects
 - Innovative ideas in EdTech, real-time chat, and campus utility apps
 - Java/Liferay-based enterprise applications
 

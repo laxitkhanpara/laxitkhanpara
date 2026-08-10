@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Laxit 👋</h1>
+<h1 align="stsrt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxit!" alt="Typing SVG" />
+</h1>
+
+
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
 <h3 align="center">Software Engineer — building scalable systems, automations & AI-driven products</h3>
 
 <p align="center">
@@ -6,6 +12,27 @@ I engineer backend systems that handle real load, automations that erase manual 
 and AI-powered features that make products smarter — across Java/Spring and the MERN stack. 
 I don't anchor to one technology; I anchor to solving the problem well.
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/laxit-khanpara" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+    
+  <a href="https://instagram.com/laxu_smuk" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+    
+   <a href="https://youtube.com/@laxitkhanpara" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  
+   <a href="https://laxitkhanpara3646@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  
+   <a href="https://discord.gg/DasnqH37RZ" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  
+   <a href="https://leetcode.com/u/laxitkhanpara3646/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="40" alt="leetcode logo"  /></a>
+
+</div>
 
 ---
 
@@ -47,13 +74,3 @@ Distributed systems design · Generative AI in production pipelines · Cloud-nat
 
 ### 🤝 Let's build something
 I'm always up for collaborating on AI-driven tools, real-time systems, or open-source projects that push me to learn. If you're working on something interesting — reach out.
-
-<p align="left">
-📧 laxitkhanpara3646@gmail.com &nbsp;|&nbsp;
-🔗 <a href="https://linkedin.com/in/laxit-khanpara">LinkedIn</a> &nbsp;|&nbsp;
-🖥️ <a href="https://github.com/laxitkhanpara">GitHub</a> &nbsp;|&nbsp;
-🧠 <a href="https://leetcode.com/laxitkhanpara3646">LeetCode</a> &nbsp;|&nbsp;
-🎥 <a href="https://youtube.com/@laxitkhanpara">YouTube</a>
-</p>
-
-<p align="left"><i>He/Him</i></p>
